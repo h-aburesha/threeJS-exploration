@@ -1,5 +1,4 @@
 import { Shiba } from "./components/shiba";
-import { Box } from "@mui/material";
 
 export default function Home() {
     return (
